@@ -1,6 +1,6 @@
-customhost = "sahidb.c6e6aafskmv5.us-east-2.rds.amazonaws.com"
+customhost = "employee.c6e6aafskmv5.us-east-2.rds.amazonaws.com"
 customuser = "project1"
 custompass = "india123"
-customdb = "sahidb"
+customdb = "employee"
 custombucket = "addemp1"
 customregion = "us-east-2"
